@@ -49,9 +49,6 @@ body {
     font-weight: bold;
     text-decoration: none;
     color: #E72222;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
 }
 
 
