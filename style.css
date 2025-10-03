@@ -45,7 +45,7 @@ body {
 }
 
 .logo {
-    font-size: 1.8rem;
+    font-size: 25px;
     font-weight: bold;
     text-decoration: none;
     color: #E72222;
@@ -490,6 +490,13 @@ section {
         padding: 0.3rem 0.5rem;
         font-size: 0.8rem;
     }
+    
+    .logo {
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #E72222;
+}
 
     .conteudo-principal {
         margin-top: 120px;
@@ -583,6 +590,13 @@ section {
     .banner-subtitulo {
         font-size: 1rem;
     }
+
+    .logo {
+    font-size: 25px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #E72222;
+}
 
     .botao-cta {
         padding: 0.8rem 2rem;
